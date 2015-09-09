@@ -1,5 +1,6 @@
 #Sample Code
-This is sample code used to illustrate points in  Implementing Web API Architecture in Node.JS with Express
+This is sample code used to illustrate points in  Implementing Web API Architecture in Node.JS with Express article found at https://01.org/blogs/2015/implementing-web-api-architecture-node.js-express 
+
 
 ##To Run
 This code example is Express.js middleware which requires Node.js to be installed
